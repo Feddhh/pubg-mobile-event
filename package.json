@@ -1,0 +1,1 @@
+{ "name": "pubg-mobile-event", "version": "1.0.0", "description": "PUBG Mobile Event Form", "main": "server.js", "scripts": { "start": "node server.js" }, "dependencies": { "express": "^4.17.1", "mysql": "^2.18.1", "nodemailer": "^6.4.11", "dotenv": "^8.2.0" } }
